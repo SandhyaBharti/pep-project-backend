@@ -1,0 +1,6 @@
+ /*
+    const str = //"abc"; 
+    str.split("") // it will create array ["a","b","c"]
+    const str = "Bearer Token";
+    str.split(" ") // ["Bearer", "Token"]
+    */
